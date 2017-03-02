@@ -59,6 +59,7 @@ var seenCharacter = false;
     lettersAlreadyUsed.textContent = letters.join(" ");
   }
 
+//try and replace if statements and for loops with functional javascript and go through more of these practice questions 
 
 // This loop will run for the number of characters stored in computerGuess
   for (var i = 0; i < computerGuess.length; i++) {
