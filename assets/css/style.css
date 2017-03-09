@@ -1,0 +1,35 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  background-color: #09090e;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#mainHeader {
+  text-align: center;
+  color:white;
+  margin-top: 0px;
+}
+
+.jumbotron {
+  background-color: black;
+  background-image: url("../images/mj3.jpg");
+  background-repeat: no-repeat;
+  height: 1000px;
+  margin-top: 0px;
+  margin-bottom: 0px; 
+}
+
+#secondHeader {
+  color: white;
+}
+
+#band {
+  color: white;
+}
